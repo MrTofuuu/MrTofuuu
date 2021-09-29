@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrTofuuu
 - 👀 I’m interested in video games, anime, tv shows, movies, and learing new things.
-- 🌱 I’m currently learning full stack web development through a coding bootcamp
+- 🌱 I’m currently learning full stack web development through the SMU coding bootcamp
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
 
